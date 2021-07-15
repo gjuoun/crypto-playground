@@ -12,5 +12,6 @@
   "dependencies": {
     "@types/crypto-js": "^4.0.1",
     "crypto-js": "^4.0.0"
-  }
+  },
+  "devDependencies": {}
 }
